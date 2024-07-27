@@ -1,0 +1,9 @@
+@use "../abstracts";
+
+.home {
+  margin-bottom: 50px;
+
+  &__container {
+    margin-top: 40px;
+  }
+}
